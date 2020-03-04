@@ -10,7 +10,7 @@ Add this to your application's `shard.yml`:
 ```yaml
 dependencies:
   awscr-ssm:
-    github: y2k2mt/awscr-ssm
+    github: whk-io/awscr-ssm
 ```
 
 ## Supported crystal version
